@@ -13,6 +13,8 @@ apis and dependencies are likely to change
 You can files issues directly on this project or if you have any questions
 message us on the [sigstore#java](https://sigstore.slack.com/archives/C03239XUL92) slack channel
 
+Let's make a test PR
+
 ## Usage
 
 ### Keyless Signing And Verification
